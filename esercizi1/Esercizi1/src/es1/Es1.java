@@ -9,6 +9,7 @@ public class Es1 {
 		// Modifica di Alex
 		
 		System.out.println("modifica di Gian, scusa :D!");
+		System.out.println(" Modifica lore");
 		
 		int a = 1;
 		int b = 4;
