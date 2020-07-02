@@ -8,6 +8,8 @@ public class Es1 {
 		System.out.println("Prova GIT");
 		// Modifica di Alex
 		
+		System.out.println("modifica di Gian, scusa :D!");
+		
 		int a = 1;
 		int b = 4;
 		int c = 7;
